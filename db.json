@@ -1,0 +1,52 @@
+{
+  "restaurant": [
+    {
+      "precioPlatillo": "120",
+      "nombrePlatillo": "Ensalada Primavera",
+      "categoria": "ensalada",
+      "id": 1
+    },
+    {
+      "nombrePlatillo": "Pastel de Zanahoria",
+      "precioPlatillo": "80",
+      "categoria": "postre",
+      "id": 2
+    },
+    {
+      "nombrePlatillo": "Ensalada de Pollo",
+      "precioPlatillo": "100",
+      "categoria": "ensalada",
+      "id": 3
+    },
+    {
+      "nombrePlatillo": "plato prueba",
+      "precioPlatillo": "500",
+      "categoria": "postre",
+      "id": 4
+    },
+    {
+      "nombrePlatillo": "plato prueba2",
+      "precioPlatillo": "200",
+      "categoria": "bebida",
+      "id": 5
+    },
+    {
+      "nombrePlatillo": "plato prueba3",
+      "precioPlatillo": "789",
+      "categoria": "bebida",
+      "id": 6
+    },
+    {
+      "nombrePlatillo": "plato prueba4",
+      "precioPlatillo": "456",
+      "categoria": "bebida",
+      "id": 7
+    },
+    {
+      "nombrePlatillo": "plato prueba4",
+      "precioPlatillo": "688",
+      "categoria": "postre",
+      "id": 8
+    }
+  ]
+}
