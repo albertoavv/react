@@ -9,7 +9,6 @@ import AgregarProducto from './components/AgregarProducto';
 import Producto from './components/Producto';
 
 
-
 function App() {
 
   const [productos, guardarProducto] = useState([]);
